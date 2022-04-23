@@ -1,3 +1,5 @@
+<img align="right" width="250px" style="margin-top:-20px" src="https://i.ibb.co/cJKMrhz/capa-readme.png">
+
 # Opa! Hello World!! 🌎
 
 
@@ -8,7 +10,7 @@
 
 Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Atuando na área de QA há quase 2 anos no segmento de Live Streaming.
 
-![capa readme](C:\Users\mrkzi\Downloads\capa readme.png)
+![capa readme](<a href="https://imgbb.com/"><img src="https://i.ibb.co/cJKMrhz/capa-readme.png" alt="capa-readme" border="0"></a><br /><a target='_blank' href='https://imgbb.com/'>helmet png</a><br />)
 
 📘 Atualmente concluindo o curso de Testes de Software na [Mentorama](https://mentorama.com.br)
 
