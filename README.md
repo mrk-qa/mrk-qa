@@ -43,7 +43,9 @@ Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de 
 ******
 
 <br>
-
+<div align="center">
+  <a href="https://github.com/mrk-qa">
 <p><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrk-qa&layout=compact&langs_count=7&theme=discord_old_blurple"/></p>
 
 <p><img height="160em" src="https://github-readme-stats.vercel.app/api?username=mrk-qa&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/></p>
+</div>
