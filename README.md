@@ -38,14 +38,10 @@ Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de 
 <a href="https://instagram.com/mrk_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrk_fps" height="30" width="40" /></a>
 </p>
 
-<br>
-
 ******
 
-<br>
 <div align="center">
   <a href="https://github.com/mrk-qa">
-<p><img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrk-qa&layout=compact&langs_count=7&theme=discord_old_blurple"/></p>
-
-<p><img height="160em" src="https://github-readme-stats.vercel.app/api?username=mrk-qa&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/></p>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrk-qa&layout=compact&langs_count=7&theme=discord_old_blurple"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=mrk-qa&show_icons=true&theme=discord_old_blurple&include_all_commits=true&count_private=true"/>
 </div>
