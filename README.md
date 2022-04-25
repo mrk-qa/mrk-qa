@@ -30,7 +30,9 @@ Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de 
 
 
 
+
 📫 Você pode falar comigo pelo [Linkedin](https://www.linkedin.com/in/mrk-silva/) ou pelo [Instagram](https://www.instagram.com/mrk_fps/) (não se assuste com as fotos rs) e pode conhecer meus projetos já desenvolvidos, que estão disponíveis aqui nos repositórios ;)
+
 
 
 
@@ -39,6 +41,8 @@ Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de 
 <a href="https://linkedin.com/in/mrk-silva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrk-silva" height="30" width="40" /></a>
 <a href="https://instagram.com/mrk_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrk_fps" height="30" width="40" /></a>
 </p>
+
+
 
 
 
