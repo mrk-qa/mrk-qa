@@ -44,6 +44,6 @@ Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de 
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrk-qa&show_icons=true&locale=en&layout=compact" alt="mrk-qa" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrk-qa&show_icons=true&locale=en&layout=compact" alt="mrk-qa" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrk-qa&" alt="mrk-qa" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mrk-qa&" alt="mrk-qa" /></p>
