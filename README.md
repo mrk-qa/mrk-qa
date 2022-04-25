@@ -4,7 +4,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrk-qa&label=Profile%20views&color=0e75b6&style=flat" alt="mrk-qa" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrk-qa&label=Profile%20views&color=0e75b6&style=flat" alt="mrk-qa" /> </p>
 
 
 
@@ -38,10 +38,11 @@ Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de 
 <a href="https://instagram.com/mrk_fps" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mrk_fps" height="30" width="40" /></a>
 </p>
 
+<br>
 
+******
 
-****
-
+<br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mrk-qa&show_icons=true&locale=en&layout=compact" alt="mrk-qa" /></p>
 
