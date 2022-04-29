@@ -2,7 +2,7 @@
 <h1>  @Test </h1>
 <h1>  Hello World!! 🌎 </h1>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=mrk-qa&label=Profile%20views&color=0e75b6&style=flat" alt="mrk-qa" /> </p>
+<p align="center"> <img src="https://hit.yhype.me/github/profile?username=mrk-qa" alt="mrk-qa" /> </p>
 
 
 
