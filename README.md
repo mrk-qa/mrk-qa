@@ -2,7 +2,7 @@
 <h1>  @Test </h1>
 <h1>  Hello World!! 🌎 </h1>
 
-<p align="center"> src="https://komarev.com/ghpvc/?username=mrk-qa&color=blue" alt="mrk-qa" /></p>
+<div align="center"> src="https://komarev.com/ghpvc/?username=mrk-qa&color=blue" alt="mrk-qa" /> </div>
 
 
 ### Marco (mrk) Antonio 👋
