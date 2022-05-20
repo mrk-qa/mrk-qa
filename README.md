@@ -37,8 +37,8 @@ Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de 
 
 ******
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/mrk-qa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrk-qa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrk-qa&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="143px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api?username=mrk-qa&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="143px" display="flex" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mrk-qa&layout=compact&langs_count=8&theme=algolia"/>
 </div>
