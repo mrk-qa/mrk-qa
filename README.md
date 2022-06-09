@@ -9,7 +9,7 @@
 
 Tenho 31 anos, moro em São Paulo/SP, sou um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Atuando na área de QA há quase 2 anos no segmento de Live Streaming.
 
-📖 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica](https://descomplica.com.br/faculdade).
+📖 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade).
 
 📘 Atualmente concluindo o curso de Testes de Software na [Mentorama](https://mentorama.com.br).
 
