@@ -7,13 +7,13 @@
 
 ### Marco (mrk) Antonio 👋
 
-Tenho 31 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em configurar roteador para família (rs), como hobby toco violão, um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Experiência na área de QA há mais de 2 anos.
+Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em configurar roteador para família (rs), como hobby toco violão, um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Experiência na área de QA há mais de 3 anos.
 
-💼 Atuando como Analista em Engenharia de Software Junior na [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/).
+💼 Atuando como QA Engineer na [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/).
 
 📖 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade).
 
-📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação em AWS.
+📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação CTFL e AWS.
 
 🎮 Já me aventurei como streamer na [twitch](https://www.twitch.tv) e já tentei jogar profissionalmente CSGO.
 
