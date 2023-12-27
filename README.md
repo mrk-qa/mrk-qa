@@ -1,6 +1,5 @@
 <img align="right" width="200px" style="margin-top:-20px" src="https://i.ibb.co/MSQK9m7/capa-readme-corrigida.png">
-<h1>  @Test </h1>
-<h1>  Hello World!! 🌎 </h1>
+<h1>  cy.helloWorld() 🌎 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrk-qa&label=Profile%20views&color=0e75b6&style=flat" alt="mrk-qa" /> </p>
 
