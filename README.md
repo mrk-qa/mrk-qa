@@ -18,7 +18,7 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 - [x] AWS Certified Cloud Practitioner
 - [ ] AWS Certified Solutions Architect - Associate
 
-📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação AWS Solutions Architect.
+📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação AWS Solutions Architect - Associate.
 
 🎮 Já me aventurei como streamer na [twitch](https://www.twitch.tv) e já tentei jogar profissionalmente CSGO.
 
