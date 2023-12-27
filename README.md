@@ -13,7 +13,12 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 📖 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade).
 
-📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação CTFL e AWS.
+🚀 Certificações:
+- [ ] Certified Tester Foundation Level - CTFL
+- [x] AWS Certified Cloud Practitioner
+- [ ] AWS Certified Solutions Architect - Associate
+
+📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação AWS Solutions Architect.
 
 🎮 Já me aventurei como streamer na [twitch](https://www.twitch.tv) e já tentei jogar profissionalmente CSGO.
 
