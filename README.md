@@ -6,7 +6,7 @@
 
 ### Marco (mrk) Antonio 👋
 
-Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em configurar roteador para família (rs), como hobby toco violão, um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Experiência na área de QA há mais de 3 anos.
+Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em configurar roteador para família (rs), como hobby toco violão, um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Experiência na área de QA há mais de 4 anos.
 
 💼 Atuando como QA Engineer na [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/).
 
