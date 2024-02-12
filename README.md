@@ -27,7 +27,7 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 <img width="200px" align="right" src="https://i.ibb.co/Qpx3wk0/mrk-top-secret.png">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,ts,nodejs,nestjs,express,react,angular,jquery,jest,materialui,java,spring,mysql,postgres,sqlite,mongodb,docker,git,github,gitlab,heroku,netlify,figma,php,jenkins,md,linux,vscode,eclipse,aws,gcp,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,javascript,ts,nodejs,vscode,eclipse,aws,gcp,azure)](https://skillicons.dev)
 
 📫 Você pode falar comigo pelo Linkedin ou pelo Instagram abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis nesse perfil nos repositórios 😊
 
