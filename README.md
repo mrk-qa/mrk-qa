@@ -29,13 +29,13 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,javascript,cypress,robotframework,selenium,appium,git,k6" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,AWS,javascript,python,cypress,robotframework,selenium,appium,git,github,k6" />
   </a>
 </p>
 
 <p align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=aws,py,github,cucumber,postman,insomnia" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=cucumber,postman,insomnia" />
   </a>
 </p>
 
