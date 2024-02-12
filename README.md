@@ -29,13 +29,7 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,javascript,python,AWS" />
-  </a>
-</p>
-
-<!-- <p align="center">
-  <a href="#">
-    <img src="[BASE_URL]?i=react,node.js,docker,mongodb,postgresql,awslambda" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,amazonwebservices,javascript,python" />
   </a>
 </p>
 
