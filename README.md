@@ -1,10 +1,11 @@
-<img align="right" width="200px" style="margin-top:50px" src="https://i.ibb.co/MSQK9m7/capa-readme-corrigida.png">
 <h1>  cy.helloWorld() 🌎 </h1>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mrk-qa&label=Profile%20views&color=0e75b6&style=flat" alt="mrk-qa" /> </p>
 
 
 ### Marco (mrk) Antonio 👋
+
+<img align="right" width="200px" style="margin-top:50px" src="https://i.ibb.co/MSQK9m7/capa-readme-corrigida.png">
 
 Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em configurar roteador para família (rs), como hobby toco violão, um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Experiência na área de QA há mais de 4 anos.
 
