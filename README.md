@@ -30,16 +30,9 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 <p align="left">
   <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,amazonaws,javascript,python,cypress,robotframework,playwright,selenium,appium,git,github,k6,cucumber,postman,insomnia,apachejmeter,githubactions&perline=11" />
+    <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,amazonaws,javascript,python,cypress,robotframework,playwright,selenium,appium,git,github,k6,cucumber,postman,insomnia,apachejmeter,githubactions&perline=11,theme=light" />
   </a>
 </p>
-<!-- 
-<p align="left">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=cucumber,postman,insomnia" />
-  </a>
-</p> -->
-
 
 📫 Você pode falar comigo pelo Linkedin ou pelo Instagram abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis nesse perfil nos repositórios 😊
 
