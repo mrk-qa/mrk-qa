@@ -26,13 +26,15 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 ### 🖥️ Tecnologias e Ferramentas:
 
-<img width="200px" align="right" src="https://i.ibb.co/Qpx3wk0/mrk-top-secret.png">
+<div style="max-width: 100%; overflow: hidden;">
+  <img width="200px" align="right" src="https://i.ibb.co/Qpx3wk0/mrk-top-secret.png">
 
-<p align="left">
-  <a href="#">
-    <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,amazonaws,javascript,python,cypress,robotframework,playwright,selenium,appium,git,github,k6,cucumber,postman,insomnia,apachejmeter,githubactions&perline=11" />
-  </a>
-</p>
+  <p align="left">
+    <a href="#">
+      <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,amazonaws,javascript,python,cypress,robotframework,playwright,selenium,appium,git,github,k6,cucumber,postman,insomnia,apachejmeter,githubactions&perline=11" style="max-width: calc(100% - 210px);" />
+    </a>
+  </p>
+</div>
 
 📫 Você pode falar comigo pelo Linkedin ou pelo Instagram abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis nesse perfil nos repositórios 😊
 
