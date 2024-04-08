@@ -5,7 +5,7 @@
 
 ### Marco (mrk) Antonio 👋
 
-<img align="right" width="200px" style="margin-top:50px" src="https://i.ibb.co/MSQK9m7/capa-readme-corrigida.png">
+<img align="right" width="200px" style="margin-top:50px" src="/assets/image-readme.png">
 
 Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em configurar roteador para família (rs), como hobby toco violão, um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Experiência na área de QA há mais de 4 anos.
 
@@ -31,7 +31,7 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
     <a href="#">
       <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,amazonaws,javascript,python,cypress,robotframework,playwright,selenium,appium,git,github,k6,cucumber,postman,insomnia,apachejmeter,githubactions&perline=10" style="max-width: calc(100% - 210px);" />
     </a>
-    <img width="200px" align="right" src="https://i.ibb.co/Qpx3wk0/mrk-top-secret.png">
+    <img width="200px" align="right" src="/assets/mrk-top-secret.png">
   </p>
 </div>
 
