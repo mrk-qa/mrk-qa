@@ -16,7 +16,8 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 🚀 Certificações:
 - ⏳ Certified Tester Foundation Level - CTFL
 - ✔️ AWS Certified Cloud Practitioner
-- ⏳ AWS Certified Solutions Architect - Associate
+- ✔️ AWS Certified Solutions Architect - Associate
+- ⏳ AWS Certified Developer - Associate
 
 📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação AWS Solutions Architect - Associate.
 
