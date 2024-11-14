@@ -30,7 +30,8 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 <div style="max-width: 100%;">
   <p align="left">
     <a href="#">
-      <img src="https://simpleskill.icons.workers.dev/svg?i=terraform,amazonaws,javascript,python,cypress,robotframework,playwright,selenium,appium,git,github,k6,cucumber,postman,insomnia,apachejmeter,githubactions&perline=10" style="max-width: calc(100% - 210px);" />
+      <img src="https://skillicons.dev/icons?i=aws,terraform,js,py,java,cypress,selenium,gherkin,git,mysql" style="max-width: calc(100% - 210px);" />
+      <img src="https://simpleskill.icons.workers.dev/svg?i=github,githubactions,robotframework,appium,k6,insomnia,postman,apachejmeter,postgresql&perline=10" " />
     </a>
     <img width="200px" align="right" src="/assets/mrk-top-secret.png">
   </p>
