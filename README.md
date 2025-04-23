@@ -11,7 +11,7 @@ Tenho 32 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 💼 Atuando como QA Engineer na [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/).
 
-📖 Estudante de Análise e Desenvolvimento de Sistemas na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade).
+📖 Formado em Análise e Desenvolvimento de Sistemas na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade).
 
 🚀 Certificações:
 - ⏳ Certified Tester Foundation Level - CTFL
