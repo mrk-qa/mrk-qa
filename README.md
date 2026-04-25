@@ -9,7 +9,7 @@
 
 Tenho 34 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em configurar roteador para família (rs), como hobby toco violão e jogo ums games de FPS, um admirador da tecnologia e gosto de viajar nos momentos que tenho oportunidade. Experiência na área de QA há mais de 5 anos.
 
-💼 Atuando como QA Engineer na [NTT DATA](https://www.linkedin.com/company/ntt-data-europe-latam/).
+💼 Atuando como Analista de QA Senior na [FF Seguros](https://www.fairfax.com.br/).
 
 📖 Formado em Análise e Desenvolvimento de Sistemas na [Descomplica Faculdade Digital](https://descomplica.com.br/faculdade).
 
@@ -17,7 +17,6 @@ Tenho 34 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 - ⏳ Certified Tester Foundation Level - CTFL
 - ✔️ AWS Certified Cloud Practitioner
 - ✔️ AWS Certified Solutions Architect - Associate
-- ⏳ AWS Certified Developer - Associate
 
 📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação AWS Developer - Associate.
 
