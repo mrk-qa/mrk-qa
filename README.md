@@ -34,8 +34,6 @@ Tenho 35 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 </p>
 <br clear="right" />
 
-<br><br>
-
 📫 Você pode falar comigo pelo Linkedin ou pelo Instagram abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis nesse perfil nos repositórios 😊
 
 
