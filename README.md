@@ -30,7 +30,7 @@ Tenho 35 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
   <img width="200px" align="right" src="/assets/mrk-top-secret-v2.png" alt="Marco" />
   <br>
   <img src="https://skillicons.dev/icons?i=aws,terraform,js,py,java,cypress,postgres,postman&perline=8" alt="Tecnologias" />
-  <br><br><br>
+  <br><br>
   <img src="/assets/tools-icons.svg" alt="Ferramentas" />
 </p>
 <br clear="right" />
