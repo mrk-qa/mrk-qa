@@ -28,9 +28,9 @@ Tenho 35 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 
 <p align="left">
   <img width="200px" align="right" src="/assets/mrk-top-secret-v2.png" alt="Marco" />
-  <img src="https://skillicons.dev/icons?i=aws,terraform,js,py,java,cypress,claudecode,anthropic,postgres&perline=10" alt="Tecnologias" />
+  <img src="https://skillicons.dev/icons?i=aws,terraform,js,py,java,cypress,postgres,postman&perline=8" alt="Tecnologias" />
   <br><br>
-  <img src="https://simpleskill.icons.workers.dev/svg?i=claudecode,appium,k6,insomnia,postman,apachejmeter&perline=10" alt="Ferramentas" />
+  <img src="https://simpleskill.icons.workers.dev/svg?i=claudecode,appium,k6,insomnia,apachejmeter&perline=5" alt="Ferramentas" />
 </p>
 <br clear="right" />
 
