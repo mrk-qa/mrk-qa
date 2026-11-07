@@ -27,12 +27,13 @@ Tenho 35 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 ### 🖥️ Tecnologias e Ferramentas:
 
 <p align="left">
-  <img width="200px" align="right" src="/assets/mrk-top-secret-v2.png" alt="Marco" />
+  <img width="140" height="140" align="right" src="/assets/mrk-top-secret-v2.png" alt="Marco" />
   <img src="https://skillicons.dev/icons?i=aws,terraform,js,py,java,cypress,postgres,postman&perline=8" alt="Tecnologias" />
   <br><br>
   <img src="/assets/tools-icons.svg" alt="Ferramentas" />
 </p>
 <br clear="right" />
+<br>
 
 📫 Você pode falar comigo pelo Linkedin ou pelo Instagram abaixo e pode conhecer meus projetos já desenvolvidos, que estão disponíveis nesse perfil nos repositórios 😊
 
