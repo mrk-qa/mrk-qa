@@ -18,7 +18,7 @@ Tenho 35 anos, moro em São Paulo/SP, filho de pernambucanos, especialista em co
 - ✔️ AWS Certified Solutions Architect - Associate
 - ⏳ Claude Developer – Foundations
 
-📚 Estudando frameworks de automação de testes como Selenium, Appium, Cypress, Robot framework e me preparando para certificação AWS Developer - Associate.
+📚 Estudando sobre o uso de IA na Qualidade de Software e me preparando para certificação Claude Developer – Foundations.
 
 🎮 Já me aventurei como streamer na [Twitch](https://www.twitch.tv) e já tentei jogar profissionalmente CSGO.
 
